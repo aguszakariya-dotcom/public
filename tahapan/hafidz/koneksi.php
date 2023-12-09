@@ -1,8 +1,8 @@
 <?php 
 $host = "becik.my.id:3306";
-$user = "workshop_zack77";
-$pass = "workshop467791zA";
-$db = "workshop_";
+$user = "akuntansi_ok";
+$pass = "123/akuntansi";
+$db = "akuntansi";
 // ==========================================/
 // $host = "localhost";
 // $user = "root";
